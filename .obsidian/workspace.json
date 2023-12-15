@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8cc4c1180e1e482c",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b4db956c1bff1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a7a17b9986d571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Lore/O começo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10242638363306f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "62fc47e58667d71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc48f08657b73f67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a08a609098ac8c5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "half orc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "092228ade179a801",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf8f070f1c79d4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc7a70e9b6711d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47be05ef9ab30594",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/Lore/O começo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "732c6d7389e27e5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Lore/O começo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acd45e996d1a1391",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94dbb5f44b1bf9ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Lore/O começo.md"
+              }
+            }
+          },
+          {
+            "id": "95395894b278853b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c71db2a4d8879d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "55a7a17b9986d571",
+  "lastOpenFiles": [
+    "World/Party/Sabrina - XXX.md",
+    "World/Party/Pedro - XXX.md",
+    "World/Party/Jascolska - XXXX.md",
+    "World/Party/Lidia - XXX.md",
+    "World/Party/Davi - XXX.md",
+    "World/Lore/O começo.md",
+    "compendium/bestiary/monstrosity/monstrosity.md",
+    "World/Lore",
+    "z_template/Callout info.md",
+    "2023-12-15.md",
+    "World/Maps/Cidade/Cidade formiga.md",
+    "z_Images",
+    "World/Maps/Cidade",
+    "World/Maps/Untitled.md",
+    "World/Maps/Untitled 1.md",
+    "World/Maps",
+    "World",
+    "rules/diseases.md",
+    "compendium/classes/barbarian.md",
+    "z_template/Callout Quote.md",
+    "z_template/Callout/Untitled.md",
+    "z_template/Callout",
+    "z_template/New NPC.md",
+    "compendium/bestiary/ooze/gelatinous-cube.md",
+    "compendium/bestiary/fey/dryad.md",
+    "compendium/bestiary/fey/fey.md",
+    "compendium/bestiary/aberration/aboleth.md",
+    "compendium/bestiary/aberration/aberration.md",
+    "compendium/bestiary/beast/beast.md",
+    "compendium/bestiary/beast/badger.md",
+    "compendium/bestiary/construct/homunculus.md",
+    "compendium/bestiary/construct/rug-of-smothering.md",
+    "compendium/bestiary/giant/token/troll.png",
+    "compendium/bestiary/giant/token/storm-giant.png",
+    "compendium/bestiary/giant/token/stone-giant.png",
+    "compendium/bestiary/giant/token/oni.png",
+    "compendium/bestiary/giant/token/hill-giant.png",
+    "compendium/bestiary/giant/token/frost-giant.png",
+    "compendium/bestiary/giant/token/ettin.png",
+    "compendium/bestiary/giant/token/cloud-giant.png",
+    "rules/variant-rules",
+    "rules",
+    "compendium/vehicles",
+    "compendium/traps-hazards",
+    "compendium/objects/token/generic-object.png",
+    "compendium/decks/img/back.webp"
+  ]
+}
